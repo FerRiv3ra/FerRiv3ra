@@ -1,6 +1,6 @@
 ## Hi there 👋 my name is Fernando Rivera
 
-- I am currently working as volunteer at The Vine Centre, as full stack developer, using NodeJS for backend and React Native for the application.
+- I am currently working as volunteer at The Vine Centre, as full stack developer, using NodeJS for backend and React Native for the application.\
 -- [Google Play](https://play.google.com/store/apps/details?id=com.ferrivera.vinecentre)
 -- [Apple AppStore](https://apps.apple.com/us/app/the-vine-centre/id1628162118)
 - I’m currently learning SWIFT to become a iOS developer.
