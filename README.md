@@ -5,6 +5,8 @@
 -- [Apple AppStore](https://apps.apple.com/us/app/the-vine-centre/id1628162118)
 - I’m currently learning NestJS - NodeJS framework.
 - I maintain some personal projects in my spare time.\
+-- TicTacTrivia - React Native App (Developing)
+-- BetterLists (Mobile App) [PlayStore](https://play.google.com/store/apps/details?id=com.ferrivera.betterlists) - React Native (Mobile App).\
 -- CheckStudents (Mobile App) [PlayStore](https://play.google.com/store/apps/details?id=com.ferrivera.checkstudents) - [AppStore](https://apps.apple.com/us/app/checkstudents/id6443751412) - NodeJS (Backend) and React Native (Mobile App).\
 -- iFootSchedule (Mobile App) [PlayStore](https://play.google.com/store/apps/details?id=com.ferrivera.ifootschedule) - [AppStore](https://apps.apple.com/us/app/ifootschedule/id1637489532) - React Native (Mobile App) and RealmDB (Data Storage).\
 -- My sister's web [Cuidados Meraki](https://www.cuidadosmeraki.com/) - ReactJS and TailwindCSS (Frontend) and NodeJS (Backend). 
