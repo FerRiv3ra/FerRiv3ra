@@ -5,7 +5,7 @@
 
 ## 🛠 About me
 - 📲 Mobile developer
-- 👨🏻‍💻 My last job was as volunteer at The Vine Centre, as full stack developer, using NodeJS for backend and React Native for the application.\
+- 👨🏻‍💻 Full stack developer as volunteer at [The Vine Centre](https://www.thevinecentre.org.uk/), as full stack developer, using NodeJS for backend and React Native for the application.\
 -- [📲 Google Play](https://play.google.com/store/apps/details?id=com.ferrivera.vinecentre)\
 -- [📲 Apple AppStore](https://apps.apple.com/us/app/the-vine-centre/id1628162118)
 - 👨🏻‍💻 I maintaining some personal projects in my spare time.\
