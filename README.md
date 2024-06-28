@@ -10,12 +10,12 @@ I am a highly skilled full stack mobile developer with React Native and Node, I 
 <table>
   <tr>
     <td width="33%">
-    <a href="https://github.com/FerRiv3ra/rn-segmented-tab-controls">
+    <a href="https://rn-inkpad.web.app/">
 <img loading="lazy" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=FerRiv3ra&amp;repo=rn-inkpad&amp;show_owner=true&amp;theme=react"/>
     </a>
     </td>
     <td width="33%">
-    <a href="https://github.com/FerRiv3ra/rn-segmented-tab-controls">
+    <a href="https://github.com/FerRiv3ra/rn-custom-alert-prompt">
 <img loading="lazy" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=FerRiv3ra&amp;repo=rn-custom-alert-prompt&amp;show_owner=true&amp;theme=react"/>
     </a>
     </td>
