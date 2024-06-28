@@ -4,16 +4,28 @@
 <img src="https://res.cloudinary.com/fercloudinary/image/upload/v1705066676/%C3%8Dconos%20Github/github-header-image_1_q8rhfa.png">
 
 ## 🛠 About me
-- 📲 Mobile developer
-- 👨🏻‍💻 Full stack developer as volunteer at [The Vine Centre](https://www.thevinecentre.org.uk/), as full stack developer, using NodeJS for backend and React Native for the application.\
--- [📲 Google Play](https://play.google.com/store/apps/details?id=com.ferrivera.vinecentre)\
--- [📲 Apple AppStore](https://apps.apple.com/us/app/the-vine-centre/id1628162118)
-- 👨🏻‍💻 I maintaining some personal projects in my spare time.\
--- 📲 TicTacTrivia - React Native App.\
--- 📲 BetterLists (Mobile App) [PlayStore](https://play.google.com/store/apps/details?id=com.ferrivera.betterlists) - React Native (Mobile App).\
--- 📲 CheckStudents (Mobile App) [PlayStore](https://play.google.com/store/apps/details?id=com.ferrivera.checkstudents) - [AppStore](https://apps.apple.com/us/app/checkstudents/id6443751412) - NodeJS (Backend) and React Native (Mobile App).\
--- 📲 iFootSchedule (Mobile App) [PlayStore](https://play.google.com/store/apps/details?id=com.ferrivera.ifootschedule) - [AppStore](https://apps.apple.com/us/app/ifootschedule/id1637489532) - React Native (Mobile App) and RealmDB (Data Storage).\
--- 🌍 My sister's web [Cuidados Meraki](https://www.cuidadosmeraki.com/) - ReactJS and TailwindCSS (Frontend) and NodeJS (Backend).
+I am a highly skilled full stack mobile developer with React Native and Node, I have more than 3 years of experience developing cross-platform mobile apps and web apps. In addition to my professional experience, I also dedicate my free time to developing mobile applications as a hobby. During my free time, I have worked on various personal projects, honing my skills in designing and developing mobile applications for platforms such as iOS and Android. These projects have allowed me to gain valuable experience in creating intuitive, functional, and visually appealing applications that deliver an exceptional user experience, for more details you can visit my [portfolio](https://feriv3ra.netlify.app/).
+
+## React Native Open source libraries
+<table>
+  <tr>
+    <td width="33%">
+    <a href="https://github.com/FerRiv3ra/rn-segmented-tab-controls">
+<img loading="lazy" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=FerRiv3ra&amp;repo=rn-inkpad&amp;show_owner=true&amp;theme=react"/>
+    </a>
+    </td>
+    <td width="33%">
+    <a href="https://github.com/FerRiv3ra/rn-segmented-tab-controls">
+<img loading="lazy" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=FerRiv3ra&amp;repo=rn-custom-alert-prompt&amp;show_owner=true&amp;theme=react"/>
+    </a>
+    </td>
+    <td width="33%">
+    <a href="https://github.com/FerRiv3ra/rn-segmented-tab-controls">
+<img loading="lazy" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=FerRiv3ra&amp;repo=rn-segmented-tab-controls&amp;show_owner=true&amp;theme=react"/>
+    </a>
+    </td>
+  </tr>
+</table>
 
 ## Some *projects*
 <table>
