@@ -4,7 +4,13 @@
 <img src="https://res.cloudinary.com/fercloudinary/image/upload/v1705066676/%C3%8Dconos%20Github/github-header-image_1_q8rhfa.png">
 
 ## 🛠 About me
-I am a highly skilled full stack mobile developer with React Native and Node, I have more than 3 years of experience developing cross-platform mobile apps and web apps. In addition to my professional experience, I also dedicate my free time to developing mobile applications as a hobby. During my free time, I have worked on various personal projects, honing my skills in designing and developing mobile applications for platforms such as iOS and Android. These projects have allowed me to gain valuable experience in creating intuitive, functional, and visually appealing applications that deliver an exceptional user experience, for more details you can visit my [portfolio](https://feriv3ra.netlify.app/).
+Hi, I'm a full-stack developer with over 5 years of experience, specialising in React, React Native, and Node.js. I'm passionate about building efficient, scalable tech solutions across both frontend and backend environments.
+
+Throughout my career, I've developed cross-platform mobile apps, robust backend APIs with Node.js, custom libraries for React Native, and modern web applications, always focusing on performance, accessibility, and great user experience.
+
+I combine strong technical skills with a product-oriented mindset, enabling smooth collaboration with design, business, and development teams to deliver impactful results. I also have solid experience working in startups, where adaptability and fast execution are key.
+
+I invite you to see my [portfolio](https://feriv3ra.netlify.app/).
 
 ## React Native Open source libraries
 <table>
