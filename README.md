@@ -1,150 +1,100 @@
 <div align="center">
-  <h1 align="center">👋 Hi, I'm Fernando Rivera</h1>
-  <p align="center"><a href="https://ferriv3ra.dev">ferriv3ra.dev</a> · Full Stack Developer</p>
+  <img src="https://res.cloudinary.com/fercloudinary/image/upload/v1705066676/%C3%8Dconos%20Github/github-header-image_1_q8rhfa.png" width="100%" alt="Header"/>
+  <h1>👋 Hi, I'm Fernando Rivera</h1>
+  <h3>Building impactful web & mobile experiences</h3>
+  <p>
+    <a href="https://ferriv3ra.dev" target="_blank">🌐 Portfolio</a> · 
+    <a href="https://www.linkedin.com/in/FerRiv3ra/" target="_blank">💼 LinkedIn</a>
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=FerRiv3ra&style=flat-square" alt="Profile views" />
 </div>
 
-<img src="https://res.cloudinary.com/fercloudinary/image/upload/v1705066676/%C3%8Dconos%20Github/github-header-image_1_q8rhfa.png">
+---
 
-## 🛠 About Me
+## 🛠️ About Me
 
-I'm a full-stack developer with 5+ years of experience, specialising in **React**, **React Native**, and **Node.js**.
+Full Stack Developer (6+ years) specialised in **React**, **React Native**, and **Node.js**. I craft scalable, performant apps with a focus on clean architecture, accessibility, and delightful UX.
 
-I build scalable, performant web and mobile apps with a strong focus on clean architecture, accessibility, and user experience. I've developed everything from cross-platform mobile apps and robust APIs to custom React Native components and complete backend solutions.
+- 🚀 Startup enthusiast, thriving in collaborative and dynamic teams
+- 🧩 Problem solver, always learning and experimenting with new tech
+- 🏆 Open source contributor, passionate about sharing knowledge
+- 🌎 Multi-lingual, remote work advocate
 
-I enjoy working in fast-paced startup environments and collaborating across teams to deliver real-world impact.
-
-📎 Check out my [portfolio](https://ferriv3ra.dev)
+Outside of tech, I enjoy football, hiking, and exploring new cultures.
 
 ---
 
-### 🚀 Tech Stack
+## ⚡ Tech Stack
 
-**Languages:** JavaScript, TypeScript  
-**Frontend:** React, React Native, NextJs, Tailwind CSS  
-**Backend:** Node.js, NestJS, Express  
-**Databases:** MongoDB, PostgreSQL  
-**Tools:** Git, VS Code, Swagger, Postman, Vercel
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=white&style=flat)
 
 ---
 
-### 🔭 What I'm currently working on
+## 🔭 Currently Working On
 
-- Creating reusable UI components for React Native
-- Building mobile apps using Expo and Tamagui
-- Applying design patterns to structure mobile app logic more clearly
-- Improving performance and loading times on mobile
+- Reusable UI components for React Native
+- Mobile apps with Expo & Tamagui
+- Design patterns for scalable mobile logic
+- Performance optimisation on mobile
 
 ---
 
 ## 📦 React Native Open Source Libraries
 
-<table>
-  <tr>
-    <td width="33%">
-      <a href="https://rn-inkpad.web.app/">
-        <img loading="lazy" src="https://github-readme-stats.vercel.app/api/pin/?username=FerRiv3ra&repo=rn-inkpad&show_owner=true&theme=react"/>
-      </a>
-    </td>
-    <td width="33%">
-      <a href="https://github.com/FerRiv3ra/rn-custom-alert-prompt">
-        <img loading="lazy" src="https://github-readme-stats.vercel.app/api/pin/?username=FerRiv3ra&repo=rn-custom-alert-prompt&show_owner=true&theme=react"/>
-      </a>
-    </td>
-    <td width="33%">
-      <a href="https://github.com/FerRiv3ra/rn-segmented-tab-controls">
-        <img loading="lazy" src="https://github-readme-stats.vercel.app/api/pin/?username=FerRiv3ra&repo=rn-segmented-tab-controls&show_owner=true&theme=react"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚧 Featured Projects
-
-<!-- First row -->
-<table>
-<tr>
-  <td width="50%">
-    <h3 align="center">iFootSchedule</h3>
-    <div align="center">
-      <a href="https://github.com/FerRiv3ra/iFootSchedule" target="_blank">
-        <img src="https://res.cloudinary.com/fercloudinary/image/upload/v1685550898/FerRivera%20Web/BannerApps/iFootSchedule_hfi2yi.png" width="400" alt="iFootSchedule app">
-      </a>
-      <p>
-        <a href="https://github.com/FerRiv3ra/iFootSchedule" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-992430?style=for-the-badge&logo=github&logoColor=black">
-        </a>
-      </p>
-      <p>Follow Champions League and World Cup matches in real-time.</p>
-    </div>
-  </td>
-
-  <td width="50%">
-    <h3 align="center">The Vine Centre App</h3>
-    <div align="center">
-      <a href="https://github.com/FerRiv3ra/cupboard" target="_blank">
-        <img src="https://res.cloudinary.com/fercloudinary/image/upload/v1685546455/FerRivera%20Web/BannerApps/the-vine-app_lb57dr.png" width="400" alt="The Vine Centre App">
-      </a>
-      <p>
-        <a href="https://github.com/FerRiv3ra/cupboard" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-        </a>
-      </p>
-      <p>Mobile app to manage community cupboard visits with QR code check-ins.</p>
-    </div>
-  </td>
-</tr>
-</table>
-
-<!-- Second row -->
-<table>
-<tr>
-  <td width="50%">
-    <h3 align="center">Teslo API - NestJS eCommerce</h3>
-    <div align="center">
-      <a href="https://github.com/FerRiv3ra/teslo-nest-ecommercer" target="_blank">
-        <img src="https://res.cloudinary.com/fercloudinary/image/upload/v1690144573/FerRivera%20Web/BannerApps/NestJS_ajwc5c.png" width="400" alt="Teslo API">
-      </a>
-      <p>
-        <a href="https://github.com/FerRiv3ra/teslo-nest-ecommercer" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-C31F1F?style=for-the-badge&logo=github&logoColor=black">
-        </a>
-        <a href="https://documenter.getpostman.com/view/11178258/2s9XxtzbR5" target="_blank">
-          <img src="https://img.shields.io/badge/-DOCS POSTMAN-red?style=for-the-badge&color=C31F1F">
-        </a>
-      </p>
-      <p>Full eCommerce backend built with NestJS, PostgreSQL, and WebSockets.</p>
-    </div>
-  </td>
-
-  <td width="50%">
-    <h3 align="center">The Vine Server</h3>
-    <div align="center">
-      <a href="https://github.com/FerRiv3ra/the_vine_centre_server" target="_blank">
-        <img src="https://res.cloudinary.com/fercloudinary/image/upload/v1685550898/FerRivera%20Web/BannerApps/backend_auqz1h.png" width="400">
-      </a>
-      <p>
-        <a href="https://github.com/FerRiv3ra/the_vine_centre_server" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-d1d446?style=for-the-badge&logo=github&logoColor=black">
-        </a>
-        <a href="https://documenter.getpostman.com/view/11178258/2s93mAUfh3" target="_blank">
-          <img src="https://img.shields.io/badge/-Docs postman-green?style=for-the-badge&color=d1d446">
-        </a>
-      </p>
-      <p>Admin portal for user management, 2FA login, reporting, file uploads, and more.</p>
-    </div>
-  </td>
-</tr>
-</table>
-
----
-
-### 📊 GitHub Analytics
-
 <p align="center">
-  <a href="https://github.com/FerRiv3ra">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FerRiv3ra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FerRiv3ra&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://rn-inkpad.web.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FerRiv3ra&repo=rn-inkpad&show_owner=true&theme=react"/>
+  </a>
+  <a href="https://github.com/FerRiv3ra/rn-custom-alert-prompt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FerRiv3ra&repo=rn-custom-alert-prompt&show_owner=true&theme=react"/>
+  </a>
+  <a href="https://github.com/FerRiv3ra/rn-segmented-tab-controls">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FerRiv3ra&repo=rn-segmented-tab-controls&show_owner=true&theme=react"/>
   </a>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| [iFootSchedule](https://github.com/FerRiv3ra/iFootSchedule) | Real-time Champions League & World Cup tracker |
+| [The Vine Centre App](https://github.com/FerRiv3ra/cupboard) | QR-based check-in for community cupboard visits |
+| [Teslo API - NestJS eCommerce](https://github.com/FerRiv3ra/teslo-nest-ecommercer) | Full eCommerce backend (NestJS, PostgreSQL, WebSockets) |
+| [The Vine Server](https://github.com/FerRiv3ra/the_vine_centre_server) | Admin portal: user mgmt, 2FA, reporting, file uploads |
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FerRiv3ra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FerRiv3ra&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+- 💬 Open to collaboration and freelance opportunities
+- 🐦 Follow me on [Twitter/X](https://twitter.com/FerRiv3ra)
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/FerRiv3ra/)
+
+---
+
+<details>
+  <summary>More about me...</summary>
+  <p>
+    I love sharing knowledge, contributing to open source, and helping others grow. Ask me anything about React Native, backend APIs, or building scalable apps!
+  </p>
+</details>
