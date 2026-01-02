@@ -52,13 +52,13 @@ Outside of tech, I enjoy football, hiking, and exploring new cultures.
 
 <p align="center">
   <a href="https://rn-inkpad.web.app/">
-    <img src="github-readme-stats-vert-nine-40.vercel.app/api/pin/?username=FerRiv3ra&repo=rn-inkpad&show_owner=true&theme=react"/>
+    <img src="https://github-readme-stats-vert-nine-40.vercel.app/api/pin/?username=FerRiv3ra&repo=rn-inkpad&show_owner=true&theme=react"/>
   </a>
   <a href="https://github.com/FerRiv3ra/rn-custom-alert-prompt">
-    <img src="github-readme-stats-vert-nine-40.vercel.app/api/pin/?username=FerRiv3ra&repo=rn-custom-alert-prompt&show_owner=true&theme=react"/>
+    <img src="https://github-readme-stats-vert-nine-40.vercel.app/api/pin/?username=FerRiv3ra&repo=rn-custom-alert-prompt&show_owner=true&theme=react"/>
   </a>
   <a href="https://github.com/FerRiv3ra/rn-segmented-tab-controls">
-    <img src="github-readme-stats-vert-nine-40.vercel.app/api/pin/?username=FerRiv3ra&repo=rn-segmented-tab-controls&show_owner=true&theme=react"/>
+    <img src="https://github-readme-stats-vert-nine-40.vercel.app/api/pin/?username=FerRiv3ra&repo=rn-segmented-tab-controls&show_owner=true&theme=react"/>
   </a>
 </p>
 
