@@ -78,7 +78,7 @@ Outside of tech, I enjoy football, hiking, and exploring new cultures.
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-vert-nine-40.vercel.app/api?username=FerRiv3ra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-vert-nine-40.vercel.app/api?username=FerRiv3ra&show_icons=true&theme=algolia&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-vert-nine-40.vercel.app/api/top-langs/?username=FerRiv3ra&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
